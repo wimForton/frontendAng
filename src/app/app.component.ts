@@ -12,5 +12,5 @@ import { HeroesComponent } from './heroes/heroes.component';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  title = 'frontendAng';
+  title = 'frontend Angular';
 }
